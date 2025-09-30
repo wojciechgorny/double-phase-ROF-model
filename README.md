@@ -6,7 +6,9 @@ We present a new image denoising algorithm called the adaptive double-phase ROF 
 
 1D_supplement.pdf: The file describing briefly the model and presenting the results of numerical experiments in one dimension, comparing several image denoising methods, i.e., classical ROF, Huber-ROF and adaptive double-phase ROF.
 
-2D_supplement.pdf: The file presenting the results of numerical experiments in two dimensions.
+2D_supplement_part1.pdf: The file presenting the results of numerical experiments in two dimensions (part 1).
+
+2D_supplement_part2.pdf: The file presenting the results of numerical experiments in two dimensions (part 2).
 
 1D_acceleration.py: The code comparing the results of accelerated and non-accelerated Chambolle-Pock algorithm for the tested models (in one dimension).
 
