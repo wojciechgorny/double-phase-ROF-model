@@ -1,0 +1,10 @@
+The source codes (all .py files) are licensed under the Apache License 2.0. The descritions of the results of the numerical experiments (all .pdf files) are licensed under the CC BY 4.0 license.
+
+The text of the licenses is available at
+
+https://opensource.org/license/apache-2-0
+
+and
+
+https://creativecommons.org/licenses/by/4.0/
+
