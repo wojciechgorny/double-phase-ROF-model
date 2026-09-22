@@ -46,6 +46,10 @@ vectorial_RGB_dpROF_optimization.py: The code for optimising the vectorial RGB d
 
 vectorial_rgb_visual_comparison_of_models.py: The code for visually comparing the vectorial ROF, vectorial dpROF, RGB-ROF, RGB-dpROF, YUV-dpROF and non-local means models.
 
+Numerics_supplement_cross-dataset_gray.pdf: The file presenting the cross-dataset evaluation of the adaptive double-phase ROF model on grayscale images.
+
+Numerics_supplement_RGB.pdf: The file presenting the results of the numerical experiments for RGB images.
+
 cut1.jpg, cut2.png, cut3.jpg: one-dimensional images used in the supplements.
 
 LICENSE.txt: The license file (Apache License 2.0 for the codes; CC BY 4.0 for the description of numerical experiments).
