@@ -42,6 +42,10 @@ dpROF_optimisation.py: The code for optimising the dpROF parameters over a datas
 
 visual_comparison: The code for comparing visually dpROF and other image denoising models.
 
+vectorial_RGB_dpROF_optimization.py: The code for optimising the vectorial RGB dpROF parameters over a dataset.
+
+vectorial_rgb_visual_comparison_of_models.py: The code for visually comparing the vectorial ROF, vectorial dpROF, RGB-ROF, RGB-dpROF, YUV-dpROF and non-local means models.
+
 cut1.jpg, cut2.png, cut3.jpg: one-dimensional images used in the supplements.
 
 LICENSE.txt: The license file (Apache License 2.0 for the codes; CC BY 4.0 for the description of numerical experiments).
